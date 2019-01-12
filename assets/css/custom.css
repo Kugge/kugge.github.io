@@ -1,5 +1,6 @@
 #header { /* Hide header */
   display: none;
+  visibility: hidden;
 }
 body {
   padding: 0px 0px 0px;
