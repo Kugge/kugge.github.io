@@ -1,3 +1,3 @@
 # Kugge website
 My website.  
-**This website uses a Jekyll Theme**
+**This website use a Jekyll Theme**
