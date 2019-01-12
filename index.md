@@ -29,5 +29,5 @@ I'm learning:
 - Numpy
 
 ## Contact
-Discord: `Kugge#4308`
-Github: (Kugge)[https://github.com/Kugge]
+Discord: `Kugge#4308` 
+Github: (Kugge)[https://github.com/Kugge]  
