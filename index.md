@@ -30,4 +30,4 @@ I'm learning:
 
 ## Contact
 Discord: `Kugge#4308` 
-Github: (Kugge)[https://github.com/Kugge]  
+Github: [Kugge](https://github.com/Kugge) 
