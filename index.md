@@ -30,4 +30,5 @@ I can speak **french** and **english** (but with some errors, sometimes), and *a
 
 ## Contact
 **Discord:** Kugge#4308  
-**Github:** [Kugge](https://github.com/Kugge) 
+**Github:** [Kugge](https://github.com/Kugge)  
+**Twitter:** [@Kugge0](https://twitter.com/Kugge0)
