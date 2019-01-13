@@ -27,7 +27,7 @@ I can speak **french** and **english** (but with some errors, sometimes), and *a
 - Reinforcement learning
 - HTML requests
 - Numpy
-
+<img style="float: right;" src="https://pbs.twimg.com/profile_images/1084221845270872064/wEaWd3VX_400x400.jpg">
 ## Contact
 **Discord:** Kugge#4308  
 **Github:** [Kugge](https://github.com/Kugge)  
