@@ -12,7 +12,7 @@ Now I am interested in **programming** and especially in **machine learning**. (
 ## Languages
 I can speak **french** and **english** (but with some errors, sometimes), and *a tiny little bit italian*.
 
-## About programming
+## Programming
 **I master:**
 - Java,
 - Python,
