@@ -32,4 +32,4 @@ I can speak **french** and **english** (but with some errors, sometimes), and *a
 **Discord:** Kugge#4308  
 **Github:** [Kugge](https://github.com/Kugge)  
 **Twitter:** [@Kugge0](https://twitter.com/Kugge0)  <br>
-![Logo](https://pbs.twimg.com/profile_images/1084221845270872064/wEaWd3VX_400x400.jpg)
+<img alt="Kugger's Logo" width="500" height="500" href="https://pbs.twimg.com/profile_images/1084221845270872064/wEaWd3VX_400x400.jpg" style="margin-left:auto, margin-right:auto">
