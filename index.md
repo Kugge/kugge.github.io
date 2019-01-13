@@ -28,8 +28,8 @@ I can speak **french** and **english** (but with some errors, sometimes), and *a
 - HTML requests
 - Numpy
 
-## Contact
-**Discord:** Kugge#4308  
-**Github:** [Kugge](https://github.com/Kugge)  
-**Twitter:** [@Kugge0](https://twitter.com/Kugge0)
-<img style="float: right;" src="https://pbs.twimg.com/profile_images/1084221845270872064/wEaWd3VX_400x400.jpg" width="20%" height="20%">
+<h2>Contact</h2>
+<strong>Discord:</strong> Kugge#4308  
+<strong>Github:</strong> [Kugge](https://github.com/Kugge)  
+<strong>Twitter:</strong> [@Kugge0](https://twitter.com/Kugge0)
+<img src="https://pbs.twimg.com/profile_images/1084221845270872064/wEaWd3VX_400x400.jpg" width="50%" height="50%">
