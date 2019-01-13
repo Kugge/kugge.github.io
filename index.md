@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Who am I ?
+# About
+## Me
 I'm a **French student** who lives in **Grenoble, France**.  
 My name is **Sofiane** and I'm **18 years old**.  
 Well, I **like** a lot of things: Calisthenics, Workout, Boxing, Films/Animes, Books, Music.  
