@@ -3,14 +3,14 @@ layout: default
 ---
 # About
 ## Me
-I'm a **French student** who lives in **Grenoble, France**.  
-My name is **Sofiane** and I'm **18 years old**.  
-Well, I **like** a lot of things: Calisthenics, Workout, Boxing, Films/Animes, Books, Music.  
-I used to play guitar. *We all make mistakes*.  
-Now I am interested in **programming** and especially in **machine learning**. (Deep learning, Reinforcement learning, and so on)  
+I'm **Sofiane**, a **French student** who lives in **Grenoble, France**. I'm 18yo.  
+ 
+Well, I **like** a lot of things: Calisthenics, Workout, Boxing, and so on.  
+  
 
-## Languages
-I can speak **french** and **english** (but with some errors, sometimes), and *a tiny little bit italian*.
+
+
+
 
 ## Programming
 **I master:**
