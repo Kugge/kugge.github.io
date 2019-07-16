@@ -3,14 +3,17 @@ layout: default
 ---
 # About
 ## Me
-I'm **Sofiane**, a **French student** who lives in **Grenoble, France**. I'm 18yo.  
- 
-Well, I **like** a lot of things: Calisthenics, Workout, Boxing, and so on.  
-  
+I'm **Sofiane**. A **French student** who lives in **Grenoble, France**. 
+I'm **18** years old.
+I study at the **Grenoble Alps Universit**.  
 
-
-
-
+## Projects
+**I'm the creator of:**
+- [Best View Distance](https://www.spigotmc.org/resources/best-view-distance.61963/)
+- [Mention](https://www.spigotmc.org/resources/mention.63390/)
+- [No Collision Spawner](https://www.spigotmc.org/resources/no-collision-spawner.63269/)
+- [Server-Wide Experience Boost (1.13 version)](https://www.spigotmc.org/resources/server-wide-experience-boost-1-13-version.63689/)
+- [Garden server](https://gardenmc.fr/)
 
 ## Programming
 **I master:**
