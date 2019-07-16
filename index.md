@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# About
-## Me
+# About me
+## Who am I ?
 I'm **Sofiane**. A **French student** who lives in **Grenoble, France**.  
 I'm **18** years old.  
 I study at the **Grenoble Alps Universit**.
