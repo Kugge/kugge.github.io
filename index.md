@@ -12,6 +12,8 @@ I study at the **Grenoble Alps Universit**.
 - [Best View Distance](https://www.spigotmc.org/resources/best-view-distance.61963/)
 - [Mention](https://www.spigotmc.org/resources/mention.63390/)
 - [No Collision Spawner](https://www.spigotmc.org/resources/no-collision-spawner.63269/)
+- [No Spawner Changes](https://github.com/Lxct/NoSpawnerChanges)
+- [Minecraft Scripts](https://github.com/Lxct/Minecraft-Scripts)
 - [Server-Wide Experience Boost (1.13 version)](https://www.spigotmc.org/resources/server-wide-experience-boost-1-13-version.63689/)
 - [Ethynd](https://github.com/ProjetIsn2019/Ethynd/blob/master/README.md)
 - [Garden server](https://gardenmc.fr/)
